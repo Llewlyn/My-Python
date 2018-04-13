@@ -4,4 +4,5 @@ coming from a C background.
 
 
 `names_and_variables`: mutable/immutable variables and argument passing.
+
 `closures`: how to use (and avoid) Python closures.
